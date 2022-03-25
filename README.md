@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com foco no Front-end
 - 🌱 Estudando Javascript, Typescript, ReactJs, Angular, HTML e CSS
-- 💻 Desenvolvo Web API | Estrutura de Banco de Dados | Aplicativos Windows com Windows Forms | E o que precisar
+- 💻 Desenvolvo Web API | SPA | Landing Page | Estrutura de Banco de Dados | Aplicativos Windows com Windows Forms | E o que precisar
 <div align="center">
   <a href="https://github.com/Vialc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vialc&show_icons=true&&bg_color=DEG,22c1c3,1e8081,0d3536&title_color=000000&text_color=000000&icon_color=000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
