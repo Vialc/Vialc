@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vitor Alcântara 👋
 
-- 🔭 Hoje trabalho com foco no Back-end
-- 🌱 Estudando C# .NET Core | SQL Server e NoSQL | Javascript React, HTML e CSS
+- 🔭 Hoje trabalho com foco no Front-end
+- 🌱 Estudando Javascript, Typescript, ReactJs, Angular, HTML e CSS
 - 💻 Desenvolvo Web API | Estrutura de Banco de Dados | Aplicativos Windows com Windows Forms | E o que precisar
 <div align="center">
   <a href="https://github.com/Vialc">
@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vialc&layout=compact&bg_color=DEG,0d3536,1e8081,22c1c3&title_color=000000&text_color=000000&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
